@@ -1,4 +1,4 @@
-# Attila
+# Attila Lite Theme
 
 A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [http://attila-lite.devops10.com/](http://attila-lite.devops10.com/)
 
