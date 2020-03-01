@@ -1,8 +1,14 @@
-# Attila
+# Attila Lite Theme
 
-A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [attila.zutrinken.com](https://attila.zutrinken.com/)
+A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [http://attila-lite.devops10.com/](http://attila-lite.devops10.com/)
 
-If you like this theme and want to support future development you can become a [financial contributor](https://paypal.me/zutrinken).
+I forked this project from https://github.com/zutrinken/attila Peter Amende is the Author.
+
+The reason I did was to retain the Light Theme in the original release.
+
+I am NOT a developer, just changing a few settings here an there. Peter has helped me via email correspondence and I am very grateful!
+
+
 
 ## Screenshots
 
@@ -83,4 +89,4 @@ The compress Grunt task packages the theme files into `dist/<theme-name>.zip`, w
 
 ## Copyright & License
 
-Copyright (C) 2015-2020 Peter Amende - Released under the [MIT License](https://github.com/zutrinken/attila/blob/master/LICENSE).
+Copyright (C) 2015-2020 Arthur Carter - Released under the [MIT License](https://github.com/mcarter960/Attila-Lite/blob/master/LICENSE).
