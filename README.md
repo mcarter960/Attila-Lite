@@ -152,6 +152,49 @@ total 828
 -rw-r--r-- 1 root root 847757 Mar  2 00:32 attila-lite.zip
 ```
 
+## CODE INJECTION 
+```
+<script>
+  var ghosthunter_key = '0eCCe88x8020ex7d2f781f0c';
+  //optional: set your custom ghost_root url, default is "/ghost/api/v2"
+  var ghost_root_url = '/ghost/api/v2';
+</script>
+
+<style>
+    .blog-header {
+	    position: relative;
+	    padding-top: 12rem;
+    }
+    .blog-description {
+        color: #2F4F4F; 
+    }
+    .post-header {
+	    position: relative;
+	    padding: calc(12rem + 4vw) 0 calc(2rem + 2vw);
+    }
+    .post-excerpt {
+       color: #2F4F4F; 
+    }
+    .post-title {
+    	letter-spacing: 1px;    
+    }
+    .post-header .post-title {
+	    font-size: 6em;
+    }
+    .post-content h3 {
+		font-size: 2.5rem;
+		line-height: 1.2;
+        letter-spacing: 1px;
+    }
+    .post-content h1 {
+		font-size: 3rem;
+		line-height: 1.2;
+        letter-spacing: 1px;
+    }
+   
+</style>
+```
+
 ## Copyright & License
 
 From Peter's GitHub Page: Copyright (C) 2015-2020 Peter Amende - Released under the [MIT License](https://github.com/zutrinken/attila/blob/master/LICENSE).
