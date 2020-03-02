@@ -1,6 +1,6 @@
 # Attila Lite Theme
 
-A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [http://attila-lite.devops10.com/](http://attila-lite.devops10.com/)
+A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [techtalk.devops10.com](http://techtalk.devops10.com/)
 
 I forked this project from https://github.com/zutrinken/attila Peter Amende is the Author.
 
