@@ -6,7 +6,9 @@ I forked this project from https://github.com/zutrinken/attila Peter Amende is t
 
 The reason I did was to retain the Light Theme in the original release.
 
-I am NOT a developer, just changing a few settings here an there. Peter has helped me via email correspondence and I am very grateful!
+I am NOT a developer, just changing a few settings here and there. Peter has helped me via email correspondence and I am very grateful!
+
+#I am NOT changing any of Peters Code, just sass/style.css to retain light colors.
 
 
 
