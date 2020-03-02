@@ -199,4 +199,4 @@ total 828
 
 From Peter's GitHub Page: Copyright (C) 2015-2020 Peter Amende - Released under the [MIT License](https://github.com/zutrinken/attila/blob/master/LICENSE).
 
-Copyright (C) 2015-2020 Arthur Carter - Released under the [MIT License](https://github.com/mcarter960/Attila-Lite/blob/master/LICENSE).
+Copyright (C) 2020 Arthur Carter - Released under the [MIT License](https://github.com/mcarter960/Attila-Lite/blob/master/LICENSE).
