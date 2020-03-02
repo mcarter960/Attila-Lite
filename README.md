@@ -93,6 +93,65 @@ The compress Grunt task packages the theme files into `dist/<theme-name>.zip`, w
 
 	grunt compress
 
+## Command line Output
+```
+~/Attila-Lite$ sudo npm install node-sass
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+
+> node-sass@4.13.1 install /home/ghostadmin/Attila-Lite/node_modules/node-sass
+> node scripts/install.js
+
+Cached binary found at /home/ghostadmin/.npm/node-sass/4.13.1/linux-x64-64_binding.node
+
+> node-sass@4.13.1 postinstall /home/ghostadmin/Attila-Lite/node_modules/node-sass
+> node scripts/build.js
+
+Binary found at /home/ghostadmin/Attila-Lite/node_modules/node-sass/vendor/linux-x64-64/binding.node
+Testing binary
+Binary is fine
++ node-sass@4.13.1
+added 84 packages from 105 contributors and audited 1728 packages in 14.185s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+~/Attila-Lite$ sudo npm install -g grunt-cli
+/usr/bin/grunt -> /usr/lib/node_modules/grunt-cli/bin/grunt
++ grunt-cli@1.3.2
+updated 1 package in 5.299s
+~/Attila-Lite$ sudo npm install
+audited 1728 packages in 2.622s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+~/Attila-Lite$ sudo grunt build
+Running "sass:dist" (sass) task
+
+Running "postcss:dist" (postcss) task
+>> 1 processed stylesheet created.
+
+Running "copy:dist" (copy) task
+Copied 5 files
+
+Running "uglify:js" (uglify) task
+>> 1 file created 268.99 kB → 186.51 kB
+
+Done.
+~/Attila-Lite$ sudo grunt compress
+Running "compress:main" (compress) task
+>> Compressed 1 file
+
+Done.
+~/Attila-Lite$ ls -lt dist/
+total 828
+-rw-r--r-- 1 root root 847757 Mar  2 00:32 attila-lite.zip
+```
+
 ## Copyright & License
 
 From Peter's GitHub Page: Copyright (C) 2015-2020 Peter Amende - Released under the [MIT License](https://github.com/zutrinken/attila/blob/master/LICENSE).
