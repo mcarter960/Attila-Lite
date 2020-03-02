@@ -73,6 +73,10 @@ The search function is build with [ghostHunter](https://github.com/jamalneufeld/
 ````
 ## Development
 
+Install Node-Sass:
+
+	npm install node-sass
+
 Install [Grunt](https://gruntjs.com/getting-started/):
 
 	npm install -g grunt-cli
