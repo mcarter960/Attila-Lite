@@ -73,7 +73,7 @@ The search function is build with [ghostHunter](https://github.com/jamalneufeld/
 ````
 ## Development
 
-Install Node-Sass:
+Install [Node-Sass](https://www.npmjs.com/package/node-sass):
 
 	npm install node-sass
 
