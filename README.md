@@ -155,7 +155,7 @@ total 828
 ## CODE INJECTION 
 ```
 <script>
-  var ghosthunter_key = '0eCCe88x8020ex7d2f781f0c';
+  var ghosthunter_key = 'PASTE Content-API-Key HERE';
   //optional: set your custom ghost_root url, default is "/ghost/api/v2"
   var ghost_root_url = '/ghost/api/v2';
 </script>
